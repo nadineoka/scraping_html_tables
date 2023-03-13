@@ -4,7 +4,7 @@ Scraping data from an HTML table into a pandas dataframe is advantageous because
 
 ### use case
 
-<b>Data analysis:</b.> If you need to perform data analysis on a table of data that is only available as HTML, scraping the table into a pandas dataframe can make it easier to perform operations like filtering, sorting, and aggregating the data.
+<b>Data analysis:</b> If you need to perform data analysis on a table of data that is only available as HTML, scraping the table into a pandas dataframe can make it easier to perform operations like filtering, sorting, and aggregating the data.
 
 <b>Data visualization:</b> Pandas has built-in functions for creating visualizations from dataframes, so scraping an HTML table into a dataframe can allow you to create visualizations of the data contained in the table.
 
